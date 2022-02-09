@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewliu-SAP
-- 🌱 I’m currently creating an SAP Developer Tutorial for SAP Analytics Cloud!
+- 🌱 I’m currently creating a "Getting Started with SAP Analytics Cloud" Mission in Tutorial Navigator (https://developers.sap.com/tutorial-navigator.html)!
 
 
 <!---
